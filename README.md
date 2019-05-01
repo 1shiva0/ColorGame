@@ -6,3 +6,5 @@ A basic color guessing game .
   * CSS3
   * JavaScript
   * DOM Manipulation
+# Demo of ColorGame
+  https://1shiva0.github.io/ColorGame/
