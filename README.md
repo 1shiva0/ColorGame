@@ -7,4 +7,4 @@ A basic color guessing game .
   * JavaScript
   * DOM Manipulation
 # Demo of ColorGame
-  https://1shiva0.github.io/ColorGame/
+  https://Ramchaik.github.io/ColorGame/
